@@ -1,0 +1,5 @@
+[stuff]
+localhost overridden_var="inventory/prod/hosts host_var"
+
+[stuff:vars]
+overridden_var="inventory/prod/hosts group_var"
